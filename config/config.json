@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "aziszuhrip354",
+    "password": "EOigI6b5tslW",
+    "database": "cobain_link",
+    "host": "ep-round-hat-77562843.ap-southeast-1.aws.neon.tech",
+    "dialect": "postgres",
+    "ssl": true,
+    "dialectOptions": {
+       "ssl": {
+          "require": true
+       }
+     }
+  },
+  "production": {
+    "username": "aziszuhrip354",
+    "password": "EOigI6b5tslW",
+    "database": "cobain_link",
+    "host": "ep-round-hat-77562843.ap-southeast-1.aws.neon.tech",
+    "dialect": "postgres",
+    "ssl": true,
+    "dialectOptions": {
+       "ssl": {
+          "require": true
+       }
+     }
+  }
+}
