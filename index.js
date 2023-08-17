@@ -12,7 +12,7 @@ app.use(bodyParser.json()); // Untuk JSON
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get("/", (req, res) => {
-    res.send("Testing aja baru");
+    res.send("Testing aja baru nich");
 })
 
 app.use("/api/v1", router);
